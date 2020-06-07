@@ -1,7 +1,6 @@
 name: simpleappbar
 description: Simple app bar which is aware of network status.
 version: 0.0.1
-author:
 homepage: https://github.com/koiralapankajgit/simple_appbar.git
 
 environment:
